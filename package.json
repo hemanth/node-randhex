@@ -1,6 +1,6 @@
 {
   "name": "randhex",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Random hexadecimal strings of preferable length.",
   "main": "index.js",
   "scripts": {
