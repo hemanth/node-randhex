@@ -1,0 +1,24 @@
+{
+  "name": "randhex",
+  "version": "0.0.0",
+  "description": "Random hexadecimal strings of preferable length.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/node-randhex"
+  },
+  "keywords": [
+    "random",
+    "hex",
+    "hexadecimal"
+  ],
+  "author": "Hemanth.HM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth/node-randhex/issues"
+  },
+  "homepage": "https://github.com/hemanth/node-randhex"
+}
